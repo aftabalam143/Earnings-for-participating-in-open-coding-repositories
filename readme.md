@@ -7,6 +7,7 @@ Earnings for Participating in Open Coding Repositories
 
 ## Contract Address
 0xd3d5561c9f3336e561003274BE888cA82D40f283
+
 ## Project Vision
 Our vision is to create a transparent and decentralized reward mechanism for developers contributing to open-source projects. This will ensure sustainability and foster innovation within the developer community.
 
